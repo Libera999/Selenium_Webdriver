@@ -9,7 +9,7 @@ from time import sleep
 
 user_pass={
     "user_name": ["mariam_flash@mail.ru", "login@mail.ru"],
-    "pass_word": ["art123", "eur123"]
+    "pass_word": ["amer111", "eur111"]
 }
 
 user_list=user_pass.get("user_name")
